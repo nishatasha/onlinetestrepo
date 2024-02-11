@@ -1,9 +1,55 @@
 Sample Text for Exercise Document:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis velit vel nisi pretium vulputate. Suspendisse potenti. Phasellus auctor consequat neque, sed tincidunt nulla rutrum ac. Vivamus nec ligula quis nunc feugiat facilisis. In hac habitasse platea dictumst. Etiam nec sapien ac ante pretium fermentum. Donec in dictum eros. Sed ut mi a nulla hendrerit tincidunt at vel mauris. Nulla vel libero id velit ultrices bibendum.
+Title: Morning Stretch Routine
 
-Integer sit amet risus non felis vestibulum mattis id sed nunc. Nullam suscipit, enim id finibus scelerisque, est nunc suscipit quam, quis hendrerit nisi ipsum ac odio. Morbi et eros ut arcu ultrices vehicula. Fusce sollicitudin vestibulum libero, ac molestie quam iaculis id. Nunc euismod lacinia libero, eget convallis velit blandit nec. Proin auctor lorem quis lorem euismod, quis feugiat ligula malesuada. Nam consequat ligula libero, sit amet gravida quam vulputate a.
+Introduction:
+Starting your day with a gentle stretching routine can help wake up your muscles, improve flexibility, and set a positive tone for the day ahead. This quick morning stretch routine can be done in the comfort of your own home and doesn't require any equipment.
 
-Thses are sample texts
+Instructions:
+
+Neck Stretch:
+
+Sit or stand tall with your shoulders relaxed.
+Gently tilt your head to one side, bringing your ear towards your shoulder.
+Hold the stretch for 15-30 seconds.
+Repeat on the other side.
+Shoulder Roll:
+
+Roll your shoulders backwards in a circular motion, making big circles.
+Repeat for 10-15 repetitions.
+Then reverse the direction and roll your shoulders forwards for 10-15 repetitions.
+Arm Stretch:
+
+Extend one arm straight out in front of you.
+Use your other hand to gently pull your fingers back towards you, stretching the forearm and wrist.
+Hold for 15-30 seconds.
+Switch arms and repeat.
+Side Stretch:
+
+Stand with your feet hip-width apart and arms relaxed at your sides.
+Inhale and reach both arms overhead, clasping your hands together.
+Exhale and lean gently to one side, feeling the stretch along the side of your body.
+Hold for 15-30 seconds.
+Inhale as you return to center and exhale as you lean to the other side.
+Repeat on both sides.
+Forward Fold:
+
+Stand with your feet hip-width apart and knees slightly bent.
+Inhale as you reach your arms overhead.
+Exhale as you hinge at the hips and fold forward, bringing your hands towards the floor or your shins.
+Let your head and neck relax.
+Hold for 15-30 seconds, feeling the stretch in your hamstrings and lower back.
+Slowly roll back up to standing.
+Quad Stretch:
+
+Stand tall and shift your weight onto one leg.
+Bend your other knee and reach back to grab your ankle or foot with your hand.
+Gently pull your heel towards your glutes, feeling the stretch in the front of your thigh.
+Hold for 15-30 seconds.
+Switch legs and repeat.
+Conclusion:
+Congratulations! You've completed a quick morning stretch routine to kickstart your day. Remember to breathe deeply and listen to your body as you move through each stretch. Incorporating this routine into your daily morning ritual can help increase energy levels and promote overall well-being.
+
+These are sample texts
 
 
