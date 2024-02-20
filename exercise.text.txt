@@ -1,9 +1,0 @@
-Sample Text for Exercise Document:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis velit vel nisi pretium vulputate. Suspendisse potenti. Phasellus auctor consequat neque, sed tincidunt nulla rutrum ac. Vivamus nec ligula quis nunc feugiat facilisis. In hac habitasse platea dictumst. Etiam nec sapien ac ante pretium fermentum. Donec in dictum eros. Sed ut mi a nulla hendrerit tincidunt at vel mauris. Nulla vel libero id velit ultrices bibendum.
-
-Integer sit amet risus non felis vestibulum mattis id sed nunc. Nullam suscipit, enim id finibus scelerisque, est nunc suscipit quam, quis hendrerit nisi ipsum ac odio. Morbi et eros ut arcu ultrices vehicula. Fusce sollicitudin vestibulum libero, ac molestie quam iaculis id. Nunc euismod lacinia libero, eget convallis velit blandit nec. Proin auctor lorem quis lorem euismod, quis feugiat ligula malesuada. Nam consequat ligula libero, sit amet gravida quam vulputate a.
-
-Thses are sample texts
-
-
